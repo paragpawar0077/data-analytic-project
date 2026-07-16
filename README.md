@@ -7,7 +7,7 @@ This project analyzes survey responses from 630 data professionals worldwide to 
 - Power BI
 - Power Query
 - DAX
-- Excel
+
 
 ## Dataset
 - **Source:** Alex The Analyst (Data Professional Survey)
